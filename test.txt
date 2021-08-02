@@ -3,3 +3,4 @@
 practice2에만 있는 내용
 다른 사람이 추가한 내용
 fetch
+fetch222222
